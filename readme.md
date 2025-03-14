@@ -1,1 +1,1 @@
-from gm-jgonzalez
+from gm-jgonzalez luego de config ssh
